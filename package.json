@@ -1,0 +1,27 @@
+{
+  "name": "npm-demo-ChristianSheherlis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staten-island-tech/npm-demo-ChristianSheherlis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staten-island-tech/npm-demo-ChristianSheherlis/issues"
+  },
+  "homepage": "https://github.com/staten-island-tech/npm-demo-ChristianSheherlis#readme"
+}
